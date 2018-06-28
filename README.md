@@ -1,2 +1,3 @@
 # hello-world
-My First Repository and github experience
+My First Repository and Github Experience
+Check updates and progress
